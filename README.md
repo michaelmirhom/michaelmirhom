@@ -4,7 +4,7 @@
 
 ## About Me
 - 🔭 I’m currently working on enhancing my skills in Full Stack Web Development with a focus on Python, Flask, and JavaScript.
-- 🌱 I’m currently learning advanced networking technologies and cybersecurity, complementing my background in pharmaceutical science.
+- 🌱 I’m currently learning advanced networking technologies and cybersecurity, complementing my background in computer science.
 - 👯 I’m looking to collaborate on innovative web development projects, particularly those that can benefit from my expertise in networking and security.
 - 📫 How to reach me: [micharby73@gmail.com](mailto:micharby73@gmail.com)
 
