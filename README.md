@@ -1,7 +1,8 @@
 ### Hi there 👋
 # Hello, I'm Michael Mirhom!
 
-![Profile views](https://gpvc.arturio.dev/michaelmirhom)
+![Happy New Year](https://media1.giphy.com/media/dX0bl4f2owEZ1ykgew/giphy.gif)
+
 
 ## Technical Skills
 - 🛠️ **Networking**: Advanced Routing/Switching, Network Troubleshooting, LAN/WAN Optimization, VLANs, OSPFv2, IPv4/IPv6, NAT, WLANs, ACLs, VPNs, IPsec
