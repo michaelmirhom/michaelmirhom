@@ -3,47 +3,40 @@
 
 ![Profile views](https://gpvc.arturio.dev/michaelmirhom)
 
-## IT Network Engineer with 10+ Years Experience
-- 🌐 Cisco certified in routing, switching, SD-WAN, and wireless; holding CCNA, CCNP Enterprise, SD-WAN Specialist.
-- 🔧 Expert in network design, optimization, troubleshooting, security, and automation.
-- 🖥️ Proficient in Python, Java, JavaScript, SQL, and full-stack development.
+## Technical Skills
+- 🛠️ **Networking**: Advanced Routing/Switching, Network Troubleshooting, LAN/WAN Optimization, VLANs, OSPFv2, IPv4/IPv6, NAT, WLANs, ACLs, VPNs, IPsec
+- 🌐 **Protocols**: OSPF, EIGRP, BGP, QoS
+- 🔐 **Security**: Network Security Practices, Cisco ASA, Fortinet Firewalls, SD-WAN Implementation
+- 💻 **Programming**: Python, Java, JavaScript, SQL
+- 🖥️ **Web Development**: HTML, CSS, React.js, Flask
+- ⚙️ **Tools**: Git, Docker, Kubernetes
+- 🗄️ **Databases**: PostgreSQL, MySQL, SQLite
 
-## Networking and Security Skills
-![Cisco](https://img.shields.io/badge/-Cisco-black?style=flat-square&logo=Cisco)
+## GitHub Stats
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmirhom&show_icons=true&theme=radical)
+
+## Tech Stack Icons
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=MySQL)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
 
-## Experience
-### Amazon Air - Gateway, Fort Worth, TX
-#### Network Engineer (Reduced Time) - 05/2018 - Present
-- Configured Cisco ASA 5500 series firewalls and managed network security with Fortinet.
-
-### Vodafone, Cairo, Egypt
-#### Network Support Specialist - 01/2014 – 01/2017
-- Managed enterprise networks using PRTG and implemented Cisco ASR 9K, Nexus 7k & 9K routers and switches.
-
-### Ministry of Communications and Information Technology, Cairo, Egypt
-#### IT Support Technician - 06/2011 – 11/2013
-- Played a key role in system maintenance and network performance optimization.
-
-## Education
-- **Flatiron School**: Full Stack Web Development, Python with Flask and JavaScript program (03/2023 - 10/2023)
-- **Merit America**: Java Development Program (04/2022-03/2023)
-- **Cisco Academy**: CCNA, CCNP Enterprise, SD-WAN Specialist certifications
-- **Fortinet Institute**: Fortinet Certified Associate in Cybersecurity, Fortinet NSE 4 & 6
-- **Tarrant County Community College**: Cyber Security Specialist, Information Technology Support
-- **Ministry of Communications and Information Technology**: Networking Fundamentals, Database Management with SQL Server
-- **Bachelor’s degree in Computer Science** from Cairo University, Egypt (Graduated: 08/2009)
-
-## Let's Connect
+## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/michael-mirhom-software/)
 - [GitHub](https://github.com/michaelmirhom)
 - [Blog](https://michaelmirhom-blog.com)
 - [Portfolio](https://michaelmirhom-portfolio.com)
+
+<!-- You can add more sections like 'Recent Projects', 'Certifications', or 'Publications' if you like -->
 
 
 
